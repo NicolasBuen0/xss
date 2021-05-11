@@ -11,8 +11,3 @@ Just a simple example of xss in a field on a vulnerable website, in the example 
 [![xss](http://img.youtube.com/vi/D3jo_nYqNTc/0.jpg)](http://www.youtube.com/watch?v=D3jo_nYqNTc")
 
 
-
-
-
-
-
