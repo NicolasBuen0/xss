@@ -8,8 +8,9 @@ Just a simple example of xss in a field on a vulnerable website, in the example 
 
 <h2>Demonstration:</h2>
 
-[![xss](http://img.youtube.com/vi/D3jo_nYqNTc/0.jpg)](http://www.youtube.com/watch?v=D3jo_nYqNTc"target="_blank")
+[![xss](http://img.youtube.com/vi/D3jo_nYqNTc/0.jpg)](http://www.youtube.com/watch?v=D3jo_nYqNTc)
 
 <h2>The was bug fixed by the developers: </h2>
 
 [![bug fixed](http://img.youtube.com/vi/9pRM4yD0Hjk/0.jpg)](http://www.youtube.com/watch?v=9pRM4yD0Hjk "bug fixed")
+
