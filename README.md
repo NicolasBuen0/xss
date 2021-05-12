@@ -1,4 +1,4 @@
-# xss
+# xss report
 Just a simple example of xss in a field on a vulnerable website, in the example below, when the link is accessed, it is possible to redirect the person to a malicious page or even a fake page.
 
 <h2>Used payload:</h2>
